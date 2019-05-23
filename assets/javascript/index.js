@@ -1,26 +1,16 @@
 const students = [
-    "github.com/aaronsy1",
-    "github.com/alexmrtnz",
-    "github.com/ngbaoan123",
-    "github.com/blakelmason",
-    "github.com/bwarner88",
-    "github.com/GreatestDane",
-    "github.com/muon012",
-    "github.com/ngbaoan123",
-    "github.com/ehab47",
-    "github.com/siscooo",
-    "github.com/hanbanana",
-    "github.com/Jase180x",
-    "github.com/Jesstrej",
-    "github.com/tedhuh",
-    "github.com/mariomenjr",
-    "github.com/mthumphrey88",
-    "github.com/jojonesss",
-    "github.com/palmersk",
-    "github.com/rs01247",
-    "github.com/artoodeeto",
-    "github.com/ramaro24",
-    "github.com/tghazal"
+   "github.com/mikerossi77/",
+   "github.com/BJZeta/",
+   "github.com/JulieDavison/",
+   "github.com/salvador1790/",
+   "github.com/thnguyenlh/",
+   "github.com/seanesqueda/",
+   "github.com/joshuaolivar/",
+   "github.com/xingchen19891",
+   "github.com/JavTheSage/",
+   "github.com/aizeke",
+   "github.com/akang14",
+   "github.com/funnel91/"
    ]
 
 function findStudent() {
